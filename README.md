@@ -41,7 +41,7 @@
   <a href="https://linkedin.com/in/bhagvati-gaikwad-ab89992a1">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" />
   </a>
-  <a href="https://www.youtube.com/@Code.Create.Contribute">
+  <a href="https://www.youtube.com/channel/UCnHaZ7S8BG-KAXM2XqUJR_w">
     <img src="https://img.shields.io/badge/-YouTube-red?style=flat-square&logo=YouTube&logoColor=white" />
   </a>
   <a href="mailto:bhagvati.gaikwad@example.com">
