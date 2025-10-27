@@ -2,7 +2,7 @@
 
 💻 **Software Developer | Lifelong Learner | Open Source Enthusiast**  
 📍 Pune, India  
-💬 _JavaScript | Java | Web Applications_  
+💬 _JavaScript | Python | Web Applications_  
 
 🚀 I love building clean, efficient solutions and sharing knowledge with the developer community.
 
