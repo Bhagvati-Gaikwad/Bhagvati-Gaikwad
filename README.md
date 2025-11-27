@@ -1,43 +1,42 @@
----
+# 👋 Hey, I'm Bhagvati Gaikwad
 
-# 👋 Hello, I'm **Bhagvati Gaikwad**
+💻 Software Developer | Cloud & Web Enthusiast | Open Source Contributor  
+📍 Pune, India  
+💬 JavaScript · Python · Modern Web Applications  
 
-💻 **Software Developer | Lifelong Learner | Open Source Enthusiast**
-📍 *Pune, India*
-💬 *JavaScript | Python | Web Applications*
-
-🚀 I love building clean, efficient solutions and sharing knowledge with the developer community.
+🚀 Building scalable, clean solutions and sharing knowledge with the developer community.
 
 ---
 
-## 🌟 **Project Showcase**
+## 🌟 Featured Projects
 
-| Project              | Description                 | Tech Stack            | Link                                                                 |
-| -------------------- | --------------------------- | --------------------- | -------------------------------------------------------------------- |
-| **Simon**            | A classic Simon game clone  | HTML, CSS, JavaScript | [🔗 View Repo](https://github.com/Bhagvati-Gaikwad/Simon)            |
-| **To-Do List**       | Simple productivity app     | JavaScript, CSS       | [🔗 View Repo](https://github.com/Bhagvati-Gaikwad/To-do-list)       |
-| **Editor Portfolio** | Personal portfolio editor   | React, CSS            | [🔗 View Repo](https://github.com/Bhagvati-Gaikwad/Editor-Portfolio) |
-| **CloudCast**        | Cloud-based news aggregator | Node.js, JavaScript   | [🔗 View Repo](https://github.com/Bhagvati-Gaikwad/CloudCast)        |
-| **Budget Tracker**   | Expense tracking web app    | HTML, CSS, JavaScript | [🔗 View Repo](https://github.com/Bhagvati-Gaikwad/Budget-tracker)   |
+| Project              | Description                            | Tech Stack            | Link                                                                 |
+| -------------------- | -------------------------------------- | --------------------- | -------------------------------------------------------------------- |
+| Simon                | Classic memory-based Simon game clone  | HTML, CSS, JavaScript | https://github.com/Bhagvati-Gaikwad/Simon                            |
+| To-Do List           | Lightweight productivity task manager  | JavaScript, CSS       | https://github.com/Bhagvati-Gaikwad/To-do-list                       |
+| Editor Portfolio     | Customizable portfolio editor          | React, CSS            | https://github.com/Bhagvati-Gaikwad/Editor-Portfolio                |
+| CloudCast            | Cloud-based tech news aggregator       | Node.js, JavaScript   | https://github.com/Bhagvati-Gaikwad/CloudCast                        |
+| Budget Tracker       | Personal expense tracking web app      | HTML, CSS, JavaScript | https://github.com/Bhagvati-Gaikwad/Budget-tracker                  |
 
-> ✨ Explore all repositories on my [**GitHub Profile »**](https://github.com/Bhagvati-Gaikwad)
+> ✨ Explore more projects on my GitHub profile:  
+> https://github.com/Bhagvati-Gaikwad
 
 ---
 
-## 📊 **GitHub Stats & Contributions**
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bhagvati-Gaikwad&show_icons=true&theme=tokyonight" alt="Bhagvati's GitHub Stats" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Bhagvati-Gaikwad&theme=tokyonight" alt="GitHub Streak" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bhagvati-Gaikwad&show_icons=true&theme=tokyonight" alt="Bhagvati's GitHub Stats" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Bhagvati-Gaikwad&theme=tokyonight" alt="GitHub Streak" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhagvati-Gaikwad&layout=compact&theme=tokyonight" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhagvati-Gaikwad&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
 
-## 🌐 **Connect With Me**
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/bhagvati-gaikwad-ab89992a1">
@@ -53,7 +52,5 @@
 
 ---
 
-⭐ *“Code. Create. Contribute.”*
-✨ *Always learning, always building.*
-
----
+⭐ “Code. Create. Contribute.”  
+✨ Always learning, always building.
