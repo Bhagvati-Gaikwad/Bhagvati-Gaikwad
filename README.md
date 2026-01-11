@@ -1,7 +1,7 @@
 
 <img width="3400" height="920" alt="github-header-banner" src="https://github.com/user-attachments/assets/6d738bef-9dd7-40c3-acc0-1210d443aec7" />
 
-💻 Software Developer | Cloud & Web Enthusiast | Open Source Contributor  
+💻 Full stack Developer | Cloud & Web Enthusiast | Devops
 📍 Pune, India  
 💬 JavaScript · Python · Modern Web Applications  
 
