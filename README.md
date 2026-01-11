@@ -1,10 +1,8 @@
 
 <img width="3400" height="920" alt="github-header-banner" src="https://github.com/user-attachments/assets/6d738bef-9dd7-40c3-acc0-1210d443aec7" />
 
-💻 Full stack Developer | Cloud & Web Enthusiast | Devops
+Aspiring DevOps Engineer | Learning automation, CI/CD, and cloud infrastructure.
 📍 Pune, India  
-💬 JavaScript · Python · Modern Web Applications  
-
 🚀 Building scalable, clean solutions and sharing knowledge with the developer community.
 
 ---
