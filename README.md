@@ -37,24 +37,6 @@
 
 ---
 
-## 🏅 Certifications (Future-Proof)
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-Certified%20(Planned)-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-</p>
-
----
-
-## 🐳 Docker Hub
-
-<p align="center">
-  <a href="https://hub.docker.com/">
-    <img src="https://img.shields.io/badge/Docker%20Hub-Visit-blue?style=for-the-badge&logo=docker&logoColor=white" />
-  </a>
-</p>
-
----
-
 ## 🌟 Featured Projects (Carousel Style)
 
 <p align="center">
