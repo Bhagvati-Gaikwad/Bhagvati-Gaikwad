@@ -37,22 +37,42 @@
 
 ---
 
-## 🌟 Featured Projects (Carousel Style)
+🌟 Top Projects
+<table> <tr> <td width="50%">
+🐳 Docker
 
-<p align="center">
-  <a href="https://github.com/Bhagvati-Gaikwad/Docker"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhagvati-Gaikwad&repo=Docker&theme=tokyonight" /></a>
-  <a href="https://github.com/Bhagvati-Gaikwad/simple-html-app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhagvati-Gaikwad&repo=simple-html-app&theme=tokyonight" /></a>
-</p>
+Hands-on practice with Docker fundamentals, containerization, images, and Linux-based workflows.
+Perfect for understanding how applications are packaged and deployed.
 
-<p align="center">
-  <a href="https://github.com/Bhagvati-Gaikwad/first-linux"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhagvati-Gaikwad&repo=first-linux&theme=tokyonight" /></a>
-  <a href="https://github.com/Bhagvati-Gaikwad/codepipeline-s3-brainrot-game"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhagvati-Gaikwad&repo=codepipeline-s3-brainrot-game&theme=tokyonight" /></a>
-</p>
+Tech Stack:
+Docker · Linux
 
-<p align="center">
-  <a href="https://github.com/Bhagvati-Gaikwad/User-management-fullstackapp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhagvati-Gaikwad&repo=User-management-fullstackapp&theme=tokyonight" /></a>
-  <a href="https://github.com/Bhagvati-Gaikwad/fullstack-beginner-project"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhagvati-Gaikwad&repo=fullstack-beginner-project&theme=tokyonight" /></a>
-</p>
+🔗 Repo:
+https://github.com/Bhagvati-Gaikwad/Docker
+
+</td> <td width="50%">
+🔁 CI/CD with AWS CodePipeline
+
+End-to-end CI/CD pipeline using AWS CodePipeline and S3 to automate build and deployment processes.
+
+Tech Stack:
+AWS · CodePipeline · S3 · CI/CD
+
+🔗 Repo:
+https://github.com/Bhagvati-Gaikwad/codepipeline-s3-brainrot-game
+
+</td> </tr> <tr> <td colspan="2">
+🧑‍💻 User Management Full-Stack App
+
+A full-stack application showcasing CRUD operations and frontend-backend integration, helping bridge Dev and Ops understanding.
+
+Tech Stack:
+React · JavaScript · Full Stack
+
+🔗 Repo:
+https://github.com/Bhagvati-Gaikwad/User-management-fullstackapp
+
+</td> </tr> </table>
 
 ---
 
