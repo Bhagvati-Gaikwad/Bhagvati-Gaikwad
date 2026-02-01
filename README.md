@@ -1,4 +1,4 @@
-<img width="100%" src="https://github.com/user-attachments/assets/6d738bef-9dd7-40c3-acc0-1210d443aec7" />
+<img width="1584" height="396" alt="Grey and Black Simple Marketing LinkedIn Banner" src="https://github.com/user-attachments/assets/efd6bbc3-2e42-4702-ae6c-3b031b593449" />
 
 <h1 align="center">✨ Hi, I'm Bhagvati Gaikwad ✨</h1>
 
@@ -40,18 +40,23 @@
 ## 🌟 Featured Projects (Carousel Style)
 
 <p align="center">
-  <a href="https://github.com/Bhagvati-Gaikwad/Simon"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhagvati-Gaikwad&repo=Simon&theme=tokyonight" /></a>
-  <a href="https://github.com/Bhagvati-Gaikwad/To-do-list"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhagvati-Gaikwad&repo=To-do-list&theme=tokyonight" /></a>
+  <a href="https://github.com/Bhagvati-Gaikwad/Docker"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhagvati-Gaikwad&repo=Docker&theme=tokyonight" /></a>
+  <a href="https://github.com/Bhagvati-Gaikwad/simple-html-app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhagvati-Gaikwad&repo=simple-html-app&theme=tokyonight" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Bhagvati-Gaikwad/Editor-Portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhagvati-Gaikwad&repo=Editor-Portfolio&theme=tokyonight" /></a>
-  <a href="https://github.com/Bhagvati-Gaikwad/CloudCast"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhagvati-Gaikwad&repo=CloudCast&theme=tokyonight" /></a>
+  <a href="https://github.com/Bhagvati-Gaikwad/first-linux"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhagvati-Gaikwad&repo=first-linux&theme=tokyonight" /></a>
+  <a href="https://github.com/Bhagvati-Gaikwad/codepipeline-s3-brainrot-game"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhagvati-Gaikwad&repo=codepipeline-s3-brainrot-game&theme=tokyonight" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Bhagvati-Gaikwad/User-management-fullstackapp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhagvati-Gaikwad&repo=User-management-fullstackapp&theme=tokyonight" /></a>
+  <a href="https://github.com/Bhagvati-Gaikwad/fullstack-beginner-project"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhagvati-Gaikwad&repo=fullstack-beginner-project&theme=tokyonight" /></a>
 </p>
 
 ---
 
-## 📊 GitHub Stats (Auto-Updated)
+## 📊 GitHub Stats (Auto‑Updated)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Bhagvati-Gaikwad&show_icons=true&theme=tokyonight" height="165" />
