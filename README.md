@@ -3,10 +3,12 @@
 <h1 align="center">✨ Hi, I'm Bhagvati Gaikwad ✨</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=7F3ACE&center=true&vCenter=true&width=800&lines=Cloud+%26+DevOps+Graduate;Aspiring+DevOps+Engineer;AWS+%7C+Docker+%7C+Kubernetes+%7C+CI%2FCD;Automation+%26+Infrastructure+Enthusiast;Always+Learning+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=7F3ACE&center=true&vCenter=true&width=800&lines=Cloud+%26+DevOps+Graduate;Aspiring+DevOps+Engineer;AWS+%7C+Docker+%7C+Kubernetes+%7C+CI%2FCD;Infrastructure+Automation+Enthusiast;Always+Building+%F0%9F%9A%80" />
 </p>
 
-<h3 align="center">Cloud & DevOps Graduate ☁️⚙️ | Automation Enthusiast | Building Scalable Infrastructure</h3>
+<h3 align="center">
+Cloud & DevOps Graduate ☁️⚙️ | AWS & Automation Enthusiast | Building Scalable Infrastructure
+</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Bhagvati-Gaikwad&label=Profile%20Views&color=blueviolet&style=flat" />
@@ -17,7 +19,7 @@
 <p align="center">📍 Pune, India</p>
 
 <p align="center">
-🚀 Passionate about Cloud Computing, DevOps, Automation, and Infrastructure Engineering.
+🚀 Passionate about Cloud Computing, DevOps, CI/CD, Infrastructure Automation, and Cloud-Native Technologies.
 </p>
 
 ---
@@ -26,10 +28,11 @@
 
 - 🎓 Graduate in **Bachelor of Computer Applications (Cloud Technology)**
 - ☁️ Focused on building a career in **Cloud & DevOps Engineering**
-- 🌱 Currently exploring **Kubernetes, Terraform, CI/CD & Infrastructure Automation**
-- 🔧 Passionate about **Linux, Docker, AWS & Cloud-Native Technologies**
-- 📚 Continuously learning and building hands-on DevOps projects
-- ✍️ Sharing knowledge and documenting my learning journey
+- 🔧 Passionate about **Infrastructure Automation, CI/CD Pipelines & Cloud Platforms**
+- 🌱 Currently learning **Kubernetes, Terraform & Monitoring Tools**
+- 🐳 Hands-on experience with **Docker, AWS & Linux**
+- 📚 Continuously building projects and improving DevOps workflows
+- ✍️ Sharing my learning journey and technical knowledge
 
 ---
 
@@ -41,7 +44,7 @@
 
 ---
 
-# 🚀 Featured DevOps & Cloud Projects
+# 🚀 Featured Projects
 
 <table>
 <tr>
@@ -50,16 +53,17 @@
 
 ## 🐳 Docker Fundamentals & Containerization
 
-Hands-on Docker project focused on:
+Hands-on Docker project focused on learning:
 - Containerization
-- Docker Images & Volumes
-- Networking
+- Docker Images & Containers
+- Volumes & Networking
 - Linux-based workflows
+- Docker CLI operations
 
 ### Tech Stack
 Docker · Linux · Containers
 
-🔗 Repo:  
+🔗 Repo  
 https://github.com/Bhagvati-Gaikwad/Docker
 
 </td>
@@ -68,55 +72,19 @@ https://github.com/Bhagvati-Gaikwad/Docker
 
 ## 🔁 CI/CD Pipeline with AWS CodePipeline
 
-Built an automated CI/CD workflow using:
-- AWS CodePipeline
-- Amazon S3
-- Deployment automation
+Implemented an automated CI/CD workflow using AWS services to streamline deployment processes.
+
+### Key Features
+- Automated deployment pipeline
+- Continuous Integration workflow
+- AWS S3 deployment
+- Source-to-deployment automation
 
 ### Tech Stack
 AWS · CodePipeline · S3 · CI/CD
 
-🔗 Repo:  
-https://://github.com/Bhagvati-Gaikwad/codepipeline-s3-brainrot-game
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-## ☁️ AWS Static Website Deployment
-
-Deployed and hosted static applications using AWS services while learning:
-- S3 Hosting
-- IAM Permissions
-- Cloud Deployment Workflows
-
-### Tech Stack
-AWS · S3 · IAM · Hosting
-
-🔗 Repo:  
-(Add your AWS deployment repo here)
-
-</td>
-
-<td width="50%">
-
-## ⚙️ Kubernetes Learning Lab
-
-Hands-on Kubernetes practice project covering:
-- Pods & Deployments
-- Services
-- Scaling
-- YAML Configurations
-
-### Tech Stack
-Kubernetes · Docker · YAML
-
-🔗 Repo:  
-(Add your Kubernetes repo here)
+🔗 Repo  
+https://github.com/Bhagvati-Gaikwad/codepipeline-s3-brainrot-game
 
 </td>
 
@@ -126,17 +94,20 @@ Kubernetes · Docker · YAML
 
 <td colspan="2">
 
-## 🧑‍💻 User Management Full-Stack App
+## 🧑‍💻 User Management Full-Stack Application
 
-A full-stack CRUD application built to strengthen understanding of:
-- Frontend & Backend integration
-- Application deployment concepts
-- Development + Operations workflow
+A CRUD-based full-stack application demonstrating frontend-backend integration and deployment-ready architecture.
+
+### Key Features
+- User CRUD operations
+- Frontend & backend integration
+- REST API interaction
+- Full-stack development workflow
 
 ### Tech Stack
 React · JavaScript · Full Stack
 
-🔗 Repo:  
+🔗 Repo  
 https://github.com/Bhagvati-Gaikwad/User-management-fullstackapp
 
 </td>
@@ -146,15 +117,17 @@ https://github.com/Bhagvati-Gaikwad/User-management-fullstackapp
 
 ---
 
-# 📂 Current Learning Journey
+# ☁️ Current Learning Roadmap
 
-✔️ Linux Administration  
+✔️ Linux & Shell Scripting  
+✔️ Git & GitHub  
 ✔️ Docker & Containerization  
 ✔️ AWS Cloud Fundamentals  
 ✔️ CI/CD Pipelines  
-🔄 Kubernetes & Terraform  
+🔄 Kubernetes  
+🔄 Terraform  
 🔄 Infrastructure as Code (IaC)  
-🔄 Monitoring & Automation  
+🔄 Monitoring & Observability  
 
 ---
 
@@ -168,6 +141,17 @@ https://github.com/Bhagvati-Gaikwad/User-management-fullstackapp
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhagvati-Gaikwad&layout=compact&theme=tokyonight" />
 </p>
+
+---
+
+# 🎯 Career Objective
+
+Seeking opportunities in:
+- DevOps Engineering
+- Cloud Engineering
+- Infrastructure Automation
+- Platform Engineering
+- Site Reliability Engineering (SRE)
 
 ---
 
@@ -189,19 +173,8 @@ https://github.com/Bhagvati-Gaikwad/User-management-fullstackapp
 
 ---
 
-# 🎯 Career Objective
-
-Seeking opportunities in:
-- Cloud Engineering
-- DevOps Engineering
-- Infrastructure Automation
-- Platform Engineering
-- Site Reliability Engineering (SRE)
-
----
-
 <p align="center">
-⭐ <b>"Automate Everything. Learn Continuously. Build Reliably."</b>
+⭐ <b>"Automate. Deploy. Scale."</b>
 </p>
 
 <p align="center">
