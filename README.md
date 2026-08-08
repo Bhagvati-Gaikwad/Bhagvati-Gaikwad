@@ -61,6 +61,19 @@ Cloud & DevOps Engineer ☁️⚙️ | AWS & Automation Enthusiast | Building Sc
 
 ---
 
+## 📊 GitHub Stats & Streaks
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bhagvati-Gaikwad&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Bhagvati-Gaikwad&theme=tokyonight" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhagvati-Gaikwad&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
 ## 🎓 Education
 
 **Ajeenkya DY Patil University, Pune**  
